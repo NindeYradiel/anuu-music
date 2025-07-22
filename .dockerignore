@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+venv310/
+uploads/
+processed/
+node_modules/
+npm-debug.log
+.DS_Store
+
