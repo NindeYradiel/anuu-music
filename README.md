@@ -3,7 +3,7 @@
 Este repositorio contiene una aplicación sencilla basada en **FastAPI** para procesar audio empleando componentes de la librería **DDSP**.
 
 ## Requisitos
-- Python 3.10 o superior
+- Python 3.10–3.11
 - `ffmpeg` y `libsndfile1` para la manipulación de audio (instalados automáticamente si se usa Docker)
 
 Instala las dependencias ejecutando:
